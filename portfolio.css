@@ -210,9 +210,26 @@ justify-content: space-around;
 
 
   }
+/* skills related styls */
+
+.skills-container{  display:flex; gap: 24px;
 
 
-.skills-container{  display: flexJ;
+}
+
+
+
+.skills{   padding: 30px;
+
+
+
+
+border-radius: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+
+
 
 
 
@@ -221,24 +238,35 @@ justify-content: space-around;
 }
 
 
+.skill-description{   
+  color:#757575;
+}
 
 
 
+main section{   margin: 130px;}
+
+
+/* resume section style */
+
+.resume-colum-title{ 
+
+  color:  #474747;
+  
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+
+
+}
+
+
+.resume-container{ 
+display: flex;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
